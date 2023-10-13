@@ -1,6 +1,6 @@
-class Solution {
+class Solution3 {
     public static void main(String[] args) {
-      Solution ins = new Solution();
+      Solution3 ins = new Solution3();
       System.out.println(ins.strStr("sadbutsad","sad") == 0);
       System.out.println(ins.strStr("leetcode","leeto") == -1);
       System.out.println(ins.strStr("leetcode","tco") == 3);
